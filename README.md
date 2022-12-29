@@ -45,3 +45,4 @@ We have `metaphor-frontend` set up to run its automation by invoking argo-workfl
 - Start the server `yarn dev`
 - Go to `localhost:3000`
 - Enjoy 🥳🎉
+
